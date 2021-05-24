@@ -1,1 +1,1 @@
-# ProiectPADiscordBot
+# ProiectPA
