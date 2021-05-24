@@ -16,7 +16,7 @@ public class Info extends ListenerAdapter {
             info.addField("Creator", "toolbox", false);
             info.setDescription("Info about our bot Project PA");
             info.setColor(0xa08cde);
-            info.setFooter("Created by Baciu Dragos / Lupu Cezar");
+            info.setFooter("Created by Cezarus", event.getMember().getUser().getAvatarUrl());
 
 
             event.getChannel().sendTyping().queue();

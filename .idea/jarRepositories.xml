@@ -7,6 +7,11 @@
       <option name="url" value="https://repo.maven.apache.org/maven2" />
     </remote-repository>
     <remote-repository>
+      <option name="id" value="dv8tion" />
+      <option name="name" value="m2-dv8tion" />
+      <option name="url" value="https://m2.dv8tion.net/releases" />
+    </remote-repository>
+    <remote-repository>
       <option name="id" value="jfrog-duncte123" />
       <option name="name" value="jfrog-duncte123" />
       <option name="url" value="https://duncte123.jfrog.io/artifactory/maven/me/duncte123/botCommons/2.1.3/" />

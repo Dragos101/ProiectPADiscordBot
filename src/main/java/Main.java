@@ -21,7 +21,7 @@ public class Main {
     public static JDA jda;
     public static void main(String[] args) throws LoginException {
 
-        jda = JDABuilder.createDefault("ODM5ODY0MjA5MTgwMzI3OTY2.YJP2fw.aSLo23mY5UthwQl3oTAddwVie6k").enableIntents(GatewayIntent.GUILD_MEMBERS).build();
+        jda = JDABuilder.createDefault("ODM5ODY1NDUzNjA1OTQ1NDE0.YJP3qA.aYG82heaF9I34pPjn-I24J01_LQ").enableIntents(GatewayIntent.GUILD_MEMBERS).build();
         jda.getPresence().setStatus(OnlineStatus.ONLINE);
         jda.getPresence().setActivity(Activity.listening("commands"));
 
