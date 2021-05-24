@@ -22,7 +22,9 @@ Limbaj de programare folosit: Java
   Funcționalități:
   <li>
     Comanda Info -> într-un canal de text comanda '~info' arată detaliile proiectului.
-    ![Poza Info]
+    ![Poza Info](https://github.com/Dragos101/ProiectPADiscordBot/tree/main/Poze/info.png)
+    
+
   </li>
   <li>
     Comanda Clear -> într-un canal de text comanda '~clear {number}', unde *number* este un numar nenul, sterge *number* linii din canalul de text unde a fost apelată comanda.
