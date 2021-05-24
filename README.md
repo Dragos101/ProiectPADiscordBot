@@ -12,10 +12,20 @@ Limbaj de programare folosit: Java
   </li>
 </ul>
 <ul>
-  În realizarea proiectului s-au utilizat următoarele tehnologii: 
+  Tehnologii:
   <li> JDA - ne pune la dispozitie un mod de a ne conecta la bot</li>
   <li> botCommons - ne ajuta la modelarea mai usoara a event-urilor</li>
   <li> json-simple - ne permite citirea si parsarea unui json dat ca parametru</li>
   <li> lavaplayer - ajuta foarte mult la realizarea unei comenzi de play</li>
+</ul>
+<ul>
+  Funcționalități:
+  <li>
+    Comanda Info -> într-un canal de text comanda '~info' arată detaliile proiectului.
+    ![Poza Info]
+  </li>
+  <li>
+    Comanda Clear ->
+  </li>
 </ul>
 
