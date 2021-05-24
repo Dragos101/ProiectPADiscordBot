@@ -24,7 +24,7 @@ Limbaj de programare folosit: Java
     Comanda Info -> într-un canal de text comanda '~info' arată detaliile proiectului. <br/>
     ![Poza Info]
     <p align="center">
-      <img src="https://github.com/Dragos101/ProiectPADiscordBot/tree/main/Poze/info.png" width="350" title="hover text">
+      <img src="https://github.com/Dragos101/ProiectPADiscordBot/tree/main/Poze/info.png" width="350" height="350">
     </p>
   </li>
   <li>
