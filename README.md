@@ -25,7 +25,8 @@ Limbaj de programare folosit: Java
     ![Poza Info]
   </li>
   <li>
-    Comanda Clear ->
+    Comanda Clear -> într-un canal de text comanda '~clear {number}', unde *number* este un numar nenul, sterge *number* linii din canalul de text unde a fost apelată comanda.
+    ![Poza Clear]
   </li>
 </ul>
 
