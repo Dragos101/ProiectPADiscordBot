@@ -26,7 +26,7 @@ Limbaj de programare folosit: Java
   </li>
   <li>
     Comanda Clear -> într-un canal de text comanda '~clear {number}', unde *number* este un numar nenul, sterge *number* linii din canalul de text unde a fost apelată comanda.
-    ![Poza Clear]
+    ![Poza Clear](/images/logo.png)
   </li>
   <li>
     Comanda Join -> intr-un canal de text comanda '~join' aduce bot-ul intr-un canal de voce daca membrul apelant se află într-un canal de voce.
@@ -43,6 +43,10 @@ Limbaj de programare folosit: Java
   <li>
     Comanda Mute -> într-un canal de text comanda '-mute {membru}' îi interzice membrului *membru* să mai poată să scrie în orice canal de text.
     ![Poza Mute]
+  </li>
+  <li>
+    Comanda Meme -> într-un canal de text comanda '~meme' afișează meme-uri random.
+    ![Poza meme]
   </li>
 </ul>
 
