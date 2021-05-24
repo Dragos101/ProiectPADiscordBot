@@ -21,8 +21,8 @@ Limbaj de programare folosit: Java
 <ul>
   Funcționalități:
   <li>
-    Comanda Info -> într-un canal de text comanda '~info' arată detaliile proiectului.
-    ![Poza Info](https://github.com/Dragos101/ProiectPADiscordBot/tree/main/Poze/info.png)
+    Comanda Info -> într-un canal de text comanda '~info' arată detaliile proiectului. <br/>
+    ![Poza Info]
     <p align="center">
       <img src="https://github.com/Dragos101/ProiectPADiscordBot/tree/main/Poze/info.png" width="350" title="hover text">
     </p>
